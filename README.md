@@ -6,5 +6,4 @@ Manage Users with Ease &amp; Security..... Welcom page.
 ![Image Alt](<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/b6aa1ecc-c6b2-4d9b-8709-ca59ee568105" />)
 
 Register/Signup the User to create the account - Data will be store in MySQL...
-![Image Alt](<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/85e780ce-2baf-4871-b696-8f5148b819bb" />
-)
+![Image Alt](<img width="1869" height="912" alt="image" src="https://github.com/user-attachments/assets/29d52613-4436-4bff-871e-202bec77fd4b" />)
